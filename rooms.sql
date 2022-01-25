@@ -1,0 +1,9 @@
+insert into rooms (r_no, floor, e_id) VALUES(101, 01, 1234);
+insert into rooms (r_no, floor, e_id) VALUES(201, 04, 1234);
+insert into rooms (r_no, floor, e_id) VALUES(301, 04, 1234);
+insert into rooms (r_no, floor, e_id) VALUES(401, 04, 1124);
+insert into rooms (r_no, floor, e_id) VALUES(501, 05, 1124);
+insert into rooms (r_no, floor, e_id) VALUES(601, 05, 1125);
+insert into rooms (r_no, floor, e_id) VALUES(701, 07, 1125);
+insert into rooms (r_no, floor, e_id) VALUES(901, 07, 1129);
+insert into rooms (r_no, floor, e_id) VALUES(001, 07, 1129);
